@@ -1,6 +1,6 @@
 ---
 name: "\U0001F4A1✍\U0001F3FB어려운 문제 ISSUE TEMPLATE"
-about: 어려운 문제 issue 발행 template입니다.
+about: 어려운 문제 Issue 발행 template입니다.
 title: "[HARD]"
 labels: 어려움
 assignees: amm0124
