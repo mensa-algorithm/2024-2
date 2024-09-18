@@ -36,3 +36,6 @@ for _ in range(T):
                 dp[i] += dp[i-coin]
 
     print(dp[-1])
+
+
+# pr 후 commit test
