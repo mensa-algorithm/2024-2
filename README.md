@@ -1,4 +1,4 @@
 # 2024-2 algorithm study repository 
 
-유승훈의 브랜치입니다.
+스터디 메인 repository입니다.
 
